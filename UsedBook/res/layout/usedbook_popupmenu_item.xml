@@ -1,0 +1,6 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_popupmenu_item"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:textSize="24sp"
+    android:gravity="center"/>      
